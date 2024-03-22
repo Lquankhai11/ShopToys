@@ -1,0 +1,29 @@
+﻿@model ShopToys.Models.Role
+
+@{
+    ViewData["Title"] = "Edit Role";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+    <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+        <h2 class="tm-block-title">Edit Role</h2>
+        <div class="col-xl-6 col-lg-6 col-md-12">
+            <form asp-action="Edit" asp-route-id="@Model.RoleId" method="post" class="tm-edit-product-form">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="RoleId" />
+                <div class="form-group mb-3">
+                    <label>Role name </label>
+                    <input type="text" asp-for="RoleName" placeholder="Enter the role name here."
+                           class="form-control validate" />
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary btn-block text-uppercase">Update Now</button>
+                </div>
+                <div class="col-12">
+                    <a type="submit" class="btn btn-primary btn-block text-uppercase" asp-controller="AdminRoles" asp-action="Index">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div

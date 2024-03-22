@@ -1,0 +1,1725 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShopToys.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopToys.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\arrow-down.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\arrow-down.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\check-mark.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\check-mark.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\notification-01.jpg",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\notification-01.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\notification-02.jpg",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\notification-02.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\notification-03.jpg",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\notification-03.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\img\\product-image.jpg",
+      "PackagePath": "staticwebassets\\AdminAssests\\img\\product-image.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\index.html",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\index.html"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\jquery-ui-datepicker\\package.json",
+      "PackagePath": "staticwebassets\\AdminAssests\\jquery-ui-datepicker\\package.json"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\js\\tooplate-scripts.js",
+      "PackagePath": "staticwebassets\\AdminAssests\\js\\tooplate-scripts.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\AdminAssests\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminAssests\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.blue.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.blue.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.blue.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.blue.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.blue.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.default.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.default.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.default.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.default.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.default.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.gold.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.gold.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.gold.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.gold.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.gold.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.gold.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.green.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.green.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.green.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.green.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.green.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.pink.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.pink.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.pink.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.pink.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.pink.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.red.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.red.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.red.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.red.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.red.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.sea.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.sea.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.sea.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.sea.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.sea.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.violet.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.violet.min.css",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.violet.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\css\\style.violet.min.css.map",
+      "PackagePath": "staticwebassets\\Assests\\css\\style.violet.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\icons\\demo.html",
+      "PackagePath": "staticwebassets\\Assests\\icons\\demo.html"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\icons\\orion-svg-sprite.svg",
+      "PackagePath": "staticwebassets\\Assests\\icons\\orion-svg-sprite.svg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\icons\\styles.css",
+      "PackagePath": "staticwebassets\\Assests\\icons\\styles.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\cat-img-1.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\cat-img-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\cat-img-2.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\cat-img-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\cat-img-3.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\cat-img-3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\cat-img-4.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\cat-img-4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\category-1.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\category-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\category-2.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\category-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\customer-1.png",
+      "PackagePath": "staticwebassets\\Assests\\img\\customer-1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\customer-2.png",
+      "PackagePath": "staticwebassets\\Assests\\img\\customer-2.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Assests\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\hero-banner-alt.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\hero-banner-alt.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\hero-banner.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\hero-banner.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\hero-shop.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\hero-shop.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-5-alt-1.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-5-alt-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-5-alt-2.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-5-alt-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-detail-1.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-detail-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-detail-2.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-detail-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-detail-3.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-detail-3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\product-detail-4.jpg",
+      "PackagePath": "staticwebassets\\Assests\\img\\product-detail-4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\Assests\\img\\template-mac.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\js\\countries.json",
+      "PackagePath": "staticwebassets\\Assests\\js\\countries.json"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Assests\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\js\\front.js",
+      "PackagePath": "staticwebassets\\Assests\\js\\front.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\js\\js-cookie.js",
+      "PackagePath": "staticwebassets\\Assests\\js\\js-cookie.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\scripts\\choices.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\scripts\\choices.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\styles\\base.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\styles\\base.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\styles\\base.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\styles\\base.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\styles\\choices.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\styles\\choices.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.min.mjs",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.min.mjs"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\nouislider\\nouislider.mjs",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\nouislider\\nouislider.mjs"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\angular\\bundles\\swiper_angular.umd.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\angular\\bundles\\swiper_angular.umd.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\angular\\esm2015\\swiper-angular.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\angular\\esm2015\\swiper-angular.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\angular\\esm2015\\swiper_angular.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\angular\\esm2015\\swiper_angular.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\angular\\fesm2015\\swiper_angular.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\angular\\fesm2015\\swiper_angular.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\breakpoints\\getBreakpoint.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\breakpoints\\getBreakpoint.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\breakpoints\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\breakpoints\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\breakpoints\\setBreakpoint.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\breakpoints\\setBreakpoint.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\check-overflow\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\check-overflow\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\classes\\addClasses.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\classes\\addClasses.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\classes\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\classes\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\classes\\removeClasses.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\classes\\removeClasses.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\core.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\core.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\defaults.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\defaults.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events-emitter.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events-emitter.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onClick.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onClick.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onResize.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onResize.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onScroll.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onScroll.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onTouchEnd.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onTouchEnd.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onTouchMove.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onTouchMove.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\events\\onTouchStart.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\events\\onTouchStart.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\grab-cursor\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\grab-cursor\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\grab-cursor\\setGrabCursor.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\grab-cursor\\setGrabCursor.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\grab-cursor\\unsetGrabCursor.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\grab-cursor\\unsetGrabCursor.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\images\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\images\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\images\\loadImage.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\images\\loadImage.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\images\\preloadImages.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\images\\preloadImages.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\loop\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\loop\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\loop\\loopCreate.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\loop\\loopCreate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\loop\\loopDestroy.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\loop\\loopDestroy.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\loop\\loopFix.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\loop\\loopFix.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\moduleExtendParams.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\moduleExtendParams.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\modules\\observer\\observer.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\modules\\observer\\observer.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\modules\\resize\\resize.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\modules\\resize\\resize.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideNext.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideNext.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slidePrev.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slidePrev.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideReset.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideReset.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideTo.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideTo.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideToClickedSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideToClickedSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideToClosest.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideToClosest.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\slide\\slideToLoop.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\slide\\slideToLoop.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\transition\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\transition\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\transition\\setTransition.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\transition\\setTransition.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\transition\\transitionEmit.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\transition\\transitionEmit.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\transition\\transitionEnd.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\transition\\transitionEnd.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\transition\\transitionStart.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\transition\\transitionStart.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\getTranslate.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\getTranslate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\maxTranslate.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\maxTranslate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\minTranslate.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\minTranslate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\setTranslate.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\setTranslate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\translate\\translateTo.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\translate\\translateTo.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\index.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\index.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateActiveIndex.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateActiveIndex.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateAutoHeight.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateAutoHeight.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateClickedSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateClickedSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateProgress.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateProgress.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateSize.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateSize.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateSlides.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateSlides.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateSlidesClasses.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateSlidesClasses.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateSlidesOffset.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateSlidesOffset.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\core\\update\\updateSlidesProgress.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\core\\update\\updateSlidesProgress.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\a11y\\a11y.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\a11y\\a11y.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\a11y\\a11y.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\a11y\\a11y.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\autoplay\\autoplay.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\autoplay\\autoplay.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\autoplay\\autoplay.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\autoplay\\autoplay.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\controller\\controller.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\controller\\controller.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\controller\\controller.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\controller\\controller.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-cards\\effect-cards.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-cards\\effect-cards.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-cards\\effect-cards.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-cards\\effect-cards.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-coverflow\\effect-coverflow.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-creative\\effect-creative.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-creative\\effect-creative.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-creative\\effect-creative.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-creative\\effect-creative.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-cube\\effect-cube.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-cube\\effect-cube.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-cube\\effect-cube.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-cube\\effect-cube.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-fade\\effect-fade.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-fade\\effect-fade.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-fade\\effect-fade.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-fade\\effect-fade.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-flip\\effect-flip.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-flip\\effect-flip.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\effect-flip\\effect-flip.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\effect-flip\\effect-flip.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\free-mode\\free-mode.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\free-mode\\free-mode.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\free-mode\\free-mode.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\free-mode\\free-mode.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\grid\\grid.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\grid\\grid.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\grid\\grid.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\grid\\grid.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\hash-navigation\\hash-navigation.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\history\\history.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\history\\history.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\history\\history.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\history\\history.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\keyboard\\keyboard.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\keyboard\\keyboard.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\keyboard\\keyboard.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\keyboard\\keyboard.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\lazy\\lazy.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\lazy\\lazy.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\lazy\\lazy.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\lazy\\lazy.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\manipulation.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\manipulation.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\manipulation.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\manipulation.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\addSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\addSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\appendSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\appendSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\prependSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\prependSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\removeAllSlides.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\removeAllSlides.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\removeSlide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\manipulation\\methods\\removeSlide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\mousewheel\\mousewheel.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\mousewheel\\mousewheel.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\mousewheel\\mousewheel.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\mousewheel\\mousewheel.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\navigation\\navigation.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\navigation\\navigation.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\navigation\\navigation.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\navigation\\navigation.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\pagination\\pagination.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\pagination\\pagination.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\pagination\\pagination.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\pagination\\pagination.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\parallax\\parallax.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\parallax\\parallax.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\parallax\\parallax.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\parallax\\parallax.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\scrollbar\\scrollbar.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\scrollbar\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\scrollbar\\scrollbar.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\scrollbar\\scrollbar.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\thumbs\\thumbs.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\thumbs\\thumbs.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\thumbs\\thumbs.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\thumbs\\thumbs.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\virtual\\virtual.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\virtual\\virtual.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\virtual\\virtual.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\virtual\\virtual.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\zoom\\zoom.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\zoom\\zoom.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\modules\\zoom\\zoom.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\modules\\zoom\\zoom.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\postinstall.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\postinstall.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\get-changed-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\get-children.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\get-children.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\get-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\get-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\init-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\init-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\loop.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\loop.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\params-list.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\params-list.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\swiper-react.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\swiper-react.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\swiper-slide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\swiper-slide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\update-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\update-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\use-isomorphic-layout-effect.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\use-isomorphic-layout-effect.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\utils.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\utils.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\react\\virtual.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\react\\virtual.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\classes-to-selector.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\classes-to-selector.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\create-element-if-not-defined.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\create-element-if-not-defined.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\create-shadow.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\create-shadow.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\dom.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\dom.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\effect-init.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\effect-init.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\effect-target.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\effect-target.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\effect-virtual-transition-end.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\effect-virtual-transition-end.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\get-browser.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\get-browser.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\get-device.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\get-device.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\get-support.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\get-support.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\shared\\utils.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\shared\\utils.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\get-changed-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\get-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\get-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\init-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\init-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\params-list.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\params-list.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\swiper-slide.svelte",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\swiper-slide.svelte"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\swiper-svelte.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\swiper-svelte.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\swiper.svelte",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\swiper.svelte"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\update-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\update-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\svelte\\utils.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\svelte\\utils.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.esm.browser.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.esm.browser.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.esm.browser.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.esm.browser.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.esm.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.esm.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper.esm.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper.esm.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\swiper.min.css",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\swiper.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\get-changed-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\get-changed-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\get-children.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\get-children.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\get-params.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\get-params.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\init-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\init-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\loop.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\loop.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\params-list.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\params-list.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\swiper-slide.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\swiper-slide.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\swiper-vue.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\swiper-vue.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\update-swiper.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\update-swiper.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\utils.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\utils.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\Assests\\vendor\\swiper\\vue\\virtual.js",
+      "PackagePath": "staticwebassets\\Assests\\vendor\\swiper\\vue\\virtual.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Category\\image1p1.png",
+      "PackagePath": "staticwebassets\\images\\Category\\image1p1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Category\\p2image1.png",
+      "PackagePath": "staticwebassets\\images\\Category\\p2image1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Category\\p4image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Category\\p4image1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Category\\p5image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Category\\p5image1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\gundam1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\gundam1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\gundam2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\gundam2.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\gundam3.png",
+      "PackagePath": "staticwebassets\\images\\Products\\gundam3.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\gundam4.png",
+      "PackagePath": "staticwebassets\\images\\Products\\gundam4.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image1p1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image1p1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image1p2.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\image1p2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image1p3.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image1p3.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image1p4.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image1p4.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image1p7.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image1p7.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image2p7.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image2p7.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image3p7.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image3p7.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\image4p7.png",
+      "PackagePath": "staticwebassets\\images\\Products\\image4p7.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p123i1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p123i1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p123i2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p123i2.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p123i3.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p123i3.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p123i4.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p123i4.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p2image1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p2image1.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p2image2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p2image2.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p2image3.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p2image3.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p2image4.png",
+      "PackagePath": "staticwebassets\\images\\Products\\p2image4.png"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p3image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p3image1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p3image2.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p3image2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p3image3.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p3image3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p3image4.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p3image4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p4image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p4image1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p4image2.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p4image2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p4image3.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p4image3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p4image4.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p4image4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p5image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p5image1.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p5image2.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p5image2.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p5image3.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p5image3.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\Products\\p5image4.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\p5image4.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PRN relearn\\Project PRN211\\ShopToys\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopToys.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopToys.props",
+      "PackagePath": "build\\ShopToys.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopToys.props",
+      "PackagePath": "buildMultiTargeting\\ShopToys.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopToys.props",
+      "PackagePath": "buildTransitive\\ShopToys.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ShopToys.Models.Role>
+
+@{
+    ViewData["Title"] = "Manager Role";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+    <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+        <h2 class="tm-block-title">List Role</h2>
+        <div class="tm-product-table-container">
+            <table class="table tm-table-small tm-product-table">
+                <tbody>
+                    @if (Model != null)
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="tm-product-name">
+                                    <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Edit" asp-route-id="@item.RoleId">@item.RoleName</a>
+                                </td>
+                                <td >
+                                    <a class="tm-product-delete-link" asp-area="Admin" asp-controller="AdminRoles" asp-action="Delete" asp-route-id="@item.RoleId">
+                                        <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                    </a>
+                                    <a class="tm-product-delete-link" asp-area="Admin" asp-controller="AdminRoles" asp-action="Details" asp-route-id="@item.RoleId">
+                                        <i class="fas fa-cog"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- table container -->
+        <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Create" class="btn btn-primary btn-block text-uppercase mb-3">
+            Add new Role
+        </a>
+    </div>
+</div>

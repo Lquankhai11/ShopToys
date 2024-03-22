@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ShopToys.Models.Employee>
+
+@{
+	ViewData["Title"] = "ManagerEmployees";
+	Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+	<div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+		<h2 class="tm-block-title">List Employee</h2>
+		<div class="tm-product-table-container">
+			<div class="form-group mb-3">
+				<label for="status">Status</label>
+				<select class="custom-select tm-select-accounts"
+						id="status" name="status">
+					<option value="true" selected>Active</option>
+					<option value="false">Ban</option>
+				</select>
+			</div>
+			<table class="table table-hover tm-table-small tm-product-table">
+				<thead>
+					<tr>
+						<th scope="col">Avatar</th>
+						<th scope="col">Full Name</th>
+						<th scope="col">Contact</th>
+						<th scope="col">BirthDay</th>
+						<th scope="col">Address</th>
+						<th scope="col">Status</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>@Html.DisplayFor(modelItem => item.AvatarImage)</td>
+							<td><a asp-area="Admin" asp-controller="AdminEmployees" asp-action="Edit">@Html.DisplayFor(modelItem => item.FullName)</a></td>
+							<td>
+								<p>
+									@Html.DisplayFor(modelItem => item.Email)
+								</p>
+								<p>
+									@Html.DisplayFor(modelItem => item.Phone)
+								</p>
+							</td>@if (item.BirthDay != null)
+							{
+								<td>@item.BirthDay.Value.ToString("dd/MM/yyyy")</td>
+							}
+							else
+							{
+								<td></td>
+							}
+							<td>@Html.DisplayFor(modelItem => item.Address)</td>
+							<td>
+								<a asp-area="Admin" asp-controller="AdminEmployees" asp-action="Delete" class="tm-product-delete-link">
+									<i class="far fa-trash-alt tm-product-delete-icon"></i>
+								</a>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+		<!-- table container -->
+		<a asp-controller="AdminCustomers" asp-action="Create"
+		   class="btn btn-primary btn-block text-uppercase mb-3">Add new customer</a>
+	</div>
+</div>

@@ -1,0 +1,156 @@
+﻿@model IEnumerable<ShopToys.Models.Product>
+
+@{
+    ViewData["Title"] = "ManagerProducts";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    var categories = ViewBag.Category as List<Category>;
+    var products = ViewBag.Products as List<Product>;
+}
+
+<div class="container mt-5">
+    <div class="row tm-content-row">
+
+        <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8 tm-block-col">
+            <div class="tm-bg-primary-dark tm-block tm-block-products">
+                <div class="tm-product-table-container">
+                    <div class="form-group md-12">
+                        <label for="keyword">Search product:</label>
+                        <input id="keyword"
+                               name="keyword"
+                               class="form-control"
+                               data-large-mode="true" />
+                    </div>
+                    <div class="form-group md-12">
+                        <label for="status">Filter by category:</label>
+                        <select class="custom-select tm-select-accounts"
+                                id="catID" name="catID" asp-items="ViewBag.Categories">
+                            <option value="" disabled selected>Choose category</option>
+                            <option value="0" >All</option>
+                        </select>
+                    </div>
+                    <table class="table table-hover tm-table-small tm-product-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Product</th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Status</th>
+                                <th scope="col">Instock</th>
+                                <th scope="col">&nbsp;</th>
+                            </tr>
+                        </thead>
+                        <tbody id="records_table">
+                            @foreach (var product in products)
+                            {
+                                <tr>
+                                    <td>
+                                        <a asp-area="Admin" asp-controller="AdminProducts" asp-route-id="@product.ProductId" asp-action="Edit">@product.Name</a>
+                                    </td>
+                                    <td>
+                                        @string.Format("{0:N0} VND", product.Price)
+                                    </td>
+                                    <td>
+                                        @product.Category.CategoryName
+                                    </td>
+                                    <td>
+                                        @product.Status
+                                    </td>
+                                    <td>
+                                        @product.QuantityInStock
+                                    </td>
+                                    <td>
+                                        <a asp-area="Admin" asp-controller="AdminProducts" asp-route-id="@product.ProductId" asp-action="Delete" class="tm-product-delete-link">
+                                            <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- table container -->
+                <a asp-area="Admin" asp-controller="AdminProducts" asp-action="Create"
+                   class="btn btn-primary btn-block text-uppercase mb-3">Add new product</a>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 tm-block-col">
+            <div class="tm-bg-primary-dark tm-block tm-block-product-categories">
+                <h2 class="tm-block-title">Product Categories</h2>
+                <div class="tm-product-table-container">
+                    <table class="table tm-table-small tm-product-table">
+                        <tbody>
+                            @foreach(var category in categories)
+                            {
+                                <tr>
+                                    <td class="tm-product-name">@category.CategoryName</td>
+                                    <td class="text-center">
+                                        <a asp-area="Admin" asp-controller="Categories" asp-action="Delete" asp-route-id="@category.CategoryId" class="tm-product-delete-link">
+                                            <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- table container -->
+                <a asp-area="Admin" asp-controller="Categories" asp-action="Index" class="btn btn-primary btn-block text-uppercase mb-3">
+                    Add new category
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            jQuery("#catID").change(function () {
+                var cateID = jQuery(this).children(":selected").attr("value");
+                cateID = parseFloat(cateID);
+                $('#catID option').removeAttr('selected');
+                $("#catID > [value = " + cateID + "]").attr("selected", "true");
+                $.ajax({
+                    url: '/Admin/AdminProducts/FilterCategory',
+                    dataType: "json",
+                    type: "GET",
+                    data: {
+                        CatID: cateID
+                    },
+                    async: true,
+                    success: function (results) {
+                        if (results.status == "success") {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+
+
+            $('#keyword').keyup(function () {
+                var strkeyword = $('#keyword').val();
+                $.ajax({
+                    url: '/Admin/Search/SearchProduct/'.
+                        datatype: "json",
+                    type: "POST",
+                    data: { keyword: strkeyword },
+                    async = true,
+                    success: function (results) {
+                        $('#records_table').html("");
+                        $('#records_table').html("").hide(results);
+                    },
+                    error: function (xhr) {
+                        alert('error'),
+                                };
+                });
+            });
+        });
+
+        
+    </script>
+}
+    

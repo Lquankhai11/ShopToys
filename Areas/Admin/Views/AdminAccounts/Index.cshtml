@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ShopToys.Models.Account>
+
+@{
+    ViewData["Title"] = "ManagerAccounts";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+    <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+        <h2 class="tm-block-title">List Account</h2>
+        <div class="form-group mb-3">
+            <select class="custom-select tm-select-accounts"
+                    id="status" name="status">
+                <option value="true" selected>Active</option>
+                <option value="false">Ban</option>
+            </select>
+        </div>
+        <div class="tm-product-table-container">
+                    <table class="table table-hover tm-table-small tm-product-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">@Html.DisplayNameFor(model => model.AccountId)</th>
+                                <th scope="col">@Html.DisplayNameFor(model => model.Username)</th>
+                                <th scope="col">@Html.DisplayNameFor(model => model.Password)</th>
+                                <th scope="col">@Html.DisplayNameFor(model => model.Active)</th>
+                                <th scope="col">@Html.DisplayNameFor(model => model.Role.RoleName)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@Html.DisplayFor(modelItem => item.AccountId)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Password)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Active)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Role.RoleName)</td>
+                                <td>
+                                    <a href="#" class="tm-product-delete-link">
+                                        <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                    </a>
+                                </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+                                    <!-- table container -->
+                    <a asp-area="Admin" asp-controller="AdminAccounts" asp-action="Create"
+                       class="btn btn-primary btn-block text-uppercase mb-3">Add new account</a>
+            </div>
+        </div>

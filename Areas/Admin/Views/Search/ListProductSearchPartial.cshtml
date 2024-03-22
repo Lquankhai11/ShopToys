@@ -1,0 +1,31 @@
+﻿@model List<Product>
+
+@if (Model !=null){
+	@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            <a asp-area="Admin" asp-controller="AdminProducts" asp-route-id="@item.ProductId" asp-action="Edit">@item.Name</a>
+        </td>
+        <td>
+            @string.Format("{0:N0} VND", item.Price)
+        </td>
+        <td>
+            @item.Category.CategoryName
+        </td>
+        <td>
+            @item.Status
+        </td>
+        <td>
+            @item.QuantityInStock
+        </td>
+        <td>
+            <a asp-area="Admin" asp-controller="AdminProducts" asp-route-id="@item.ProductId" asp-action="Delete" class="tm-product-delete-link">
+                <i class="far fa-trash-alt tm-product-delete-icon"></i>
+            </a>
+        </td>
+    </tr>
+}
+
+}
+

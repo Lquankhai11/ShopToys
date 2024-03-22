@@ -1,0 +1,46 @@
+﻿@model ShopToys.Models.Role
+
+@{
+    ViewData["Title"] = "Delete Role confirm";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container tm-mt-big tm-mb-big">
+    <div class="row">
+        <div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+            <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="tm-block-title d-inline-block">Delete the role</h2>
+                    </div>
+                </div>
+                <div class="row tm-edit-product-row">
+                    <div class="col-xl-6 col-lg-6 col-md-12">
+                        <div class="form-group mb-3">
+                            <table>
+                                <tr>
+                                    <td class="tm-block-title d-inline-block">ID:</td>
+                                    <td class="tm-block-title d-inline-block">@Model.RoleId</td>
+                                </tr>
+                                <tr>
+                                    <td class="tm-block-title d-inline-block">Name: </td>
+                                    <td class="tm-block-title d-inline-block">@Model.RoleName</td>
+                                </tr>
+                                <tr>
+                                    <td>Are you sure you want to delete the role?</td>
+                                    <td>
+                                        <form asp-action="Delete" asp-route-id="@Model.RoleId">
+                                            <input type="hidden" asp-for="RoleId" />
+                                            <input type="submit" value="Delete confirm." class="btn btn-danger" /> |
+                                        </form>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
